@@ -4,4 +4,4 @@
 
 Find more details about the [Hardware](Hardware/)
 
-[Video](https://youtu.be/QCLcC9aCMRs)
+Watch more product introductions by [Video](https://youtu.be/QCLcC9aCMRs)
