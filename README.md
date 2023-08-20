@@ -1,5 +1,6 @@
-# DreamCushion
+# DreamCushion: Advanced Sleep Monitoring Pillow
 
 
-[Hardware](Hardware/)
+
+Find more details about the [Hardware](Hardware/)
 
