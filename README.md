@@ -4,7 +4,7 @@ This smart pillow is equipped with a variety of sensors and control modules that
 
 Find more hardware details in the [Hardware](Hardware/)
 
-Download the APP and find more APP-related content in the [Mobile Application](Mobile Application/)
+Download the APP and find more APP-related content in the [Mobile Application](MobileApplication/)
 
 Find more physical model details in the [Physical Model](PhysicalModel/)
 
